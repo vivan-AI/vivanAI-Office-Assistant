@@ -2,7 +2,7 @@
 
 name: vivanAIDevSecOps
 
-name: DevSecOps Security Pipeline
+name: vivanAICICD
 
 on:
   push:
